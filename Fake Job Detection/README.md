@@ -26,3 +26,8 @@ For this project, I have used the following libraries:
 Dataset: <br>
 
 There are around 800 false job descriptions among the 18K job descriptions in the dataset. The information includes both textual and meta-information about the jobs. The dataset has been used to train classification models that can detect spurious job descriptions.
+
+
+Final Result
+
+![Fake job Matrix](https://github.com/Ashleshk/Mini-Projects/blob/main/Fake%20Job%20Detection/Confusion-Matrix.PNG)
