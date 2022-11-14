@@ -20,3 +20,7 @@ In summary, the following six machine learning models were developed to classify
 
 - Well i m working on this, will update Soon....
 
+# 4. Semantic Segmentation of lungs from X-ray images 
+* A model of the segmentation of the lung region from the x-ray images, the model relies on forming a mask through which that region can be cut.
+* **My methodology**
+    * Using a pre-trained Model, to extract the characteristics and use it to train to X-ray images dataset to find a mathematical formula that links these characteristics to each other and thus the ability to build the mask as required.
