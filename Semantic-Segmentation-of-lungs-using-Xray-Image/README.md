@@ -14,9 +14,8 @@
 
 * The following diagrams show the results obtained for the training data and the test data.
 download (75) download (76)
-![training](https://github.com/Ashleshk/Mini-Projects/blob/main/Semantic-Segmentation-of-lungs-using-Xray-Image/images/training.png)
-
-![loss ratio](https://github.com/Ashleshk/Mini-Projects/blob/main/Semantic-Segmentation-of-lungs-using-Xray-Image/images/validation.png)
+![training](https://github.com/Ashleshk/Mini-Projects/blob/main/Semantic-Segmentation-of-lungs-using-Xray-Image/images/training.png)![loss ratio](https://github.com/Ashleshk/Mini-Projects/blob/main/Semantic-Segmentation-of-lungs-using-Xray-Image/images/validation.png)
 
 * The model has been tested on a number of images:
+
 ![result](https://github.com/Ashleshk/Mini-Projects/blob/main/Semantic-Segmentation-of-lungs-using-Xray-Image/images/result.png)
