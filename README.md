@@ -30,3 +30,4 @@ In summary, the following six machine learning models were developed to classify
 * **My methodology**
     *  By building a recurrent neural network capable of analyzing sentiment, using a data set that includes a number of emotions. 
     * The next stage involves using the trained model to sort tweets based on sentiment with a rating ratio. 
+    * The final hierarchical schemas (for each one of the feelings in dataset) will show the correlation of the tweeters in terms of the degree of affiliation with that feeling. The Euclidean distance was used to calculate the degree of convergence for a single feeling (depending on the percentage of tweeting classification and belonging to a specific feeling).
