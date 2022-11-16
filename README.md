@@ -24,3 +24,9 @@ In summary, the following six machine learning models were developed to classify
 * A model of the segmentation of the lung region from the x-ray images, the model relies on forming a mask through which that region can be cut.
 * **My methodology**
     * Using a pre-trained Model, to extract the characteristics and use it to train to X-ray images dataset to find a mathematical formula that links these characteristics to each other and thus the ability to build the mask as required.
+
+# 5. Multi-Class Sentiment Analysis from Tweets 
+* here in this project I learnt the mechanism by which we can aggregate Tweets based on sentiment. The aggregation process is based on the association of tweets with the same feelings, as well as the degree and proportion of the feeling.
+* **My methodology**
+    *  By building a recurrent neural network capable of analyzing sentiment, using a data set that includes a number of emotions. 
+    * The next stage involves using the trained model to sort tweets based on sentiment with a rating ratio. 
