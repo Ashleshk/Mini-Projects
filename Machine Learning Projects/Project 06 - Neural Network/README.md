@@ -1,0 +1,1 @@
+Between the three activation function, linear activation function performed well.
