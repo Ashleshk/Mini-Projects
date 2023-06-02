@@ -5,7 +5,7 @@ Small Projects to revise ML, DL Algorithms
 - **Random Forest, KNN, Log-Regression, ANN**
 In summary, the following six machine learning models were developed to classify Autism using 13 selected features from the ABIDE dataset and reducing the subjects to 785. Highest accuracy (84.71 %) and ROC_AUC score (0.74) was achieved by XGBoost algorithm, followed by Random Forest which too was pretty close. The classification report and confusion matrix of the best model is given above.
 
-[Project folder](https://github.com/Ashleshk/Mini-Projects/tree/main/Random%20Forest%2C%20KNN%2C%20Log-Regression%2C%20ANN)
+[Project code](https://github.com/Ashleshk/Mini-Projects/tree/main/Random%20Forest%2C%20KNN%2C%20Log-Regression%2C%20ANN)
 
 ![Classification Algo result](https://github.com/Ashleshk/Mini-Projects/blob/main/Random%20Forest%2C%20KNN%2C%20Log-Regression%2C%20ANN/Result.PNG)
 
@@ -13,7 +13,7 @@ In summary, the following six machine learning models were developed to classify
 # 2. Fake Job Detection
 There are around 800 false job descriptions among the 18K job descriptions in the dataset. The information includes both textual and meta-information about the jobs. The dataset has been used to train classification models that can detect spurious job descriptions.
 
-[Project Folder](https://github.com/Ashleshk/Mini-Projects/tree/main/Fake%20Job%20Detection)
+[Project code](https://github.com/Ashleshk/Mini-Projects/tree/main/Fake%20Job%20Detection)
 
 **Problem Statement/Background:**
 - Detecting fake job postings and combating fraudulent activities in the job market.
@@ -48,7 +48,7 @@ There are around 800 false job descriptions among the 18K job descriptions in th
 
 # 4. Semantic Segmentation of lungs from X-ray images 
 
-[Project Folder](https://github.com/Ashleshk/Mini-Projects/tree/main/Semantic-Segmentation-of-lungs-using-Xray-Image)
+[Project code](https://github.com/Ashleshk/Mini-Projects/tree/main/Semantic-Segmentation-of-lungs-using-Xray-Image)
 
 **Problem Statement/Background:**
 - Accurately identifying and segmenting lung regions in X-ray images for medical analysis and diagnosis.
@@ -67,7 +67,7 @@ There are around 800 false job descriptions among the 18K job descriptions in th
 
 * **Background:** In this project I learnt the mechanism by which we can aggregate Tweets based on sentiment. The aggregation process is based on the association of tweets with the same feelings, as well as the degree and proportion of the feeling.
 
-[Project Folder](https://github.com/Ashleshk/Mini-Projects/tree/main/Multi-Class%20Sentiment%20Analysis%20from%20Tweets)
+[Project code](https://github.com/Ashleshk/Mini-Projects/tree/main/Multi-Class%20Sentiment%20Analysis%20from%20Tweets)
 
 * **My methodology**
     * By building a recurrent neural network capable of analyzing sentiment, using a data set that includes a number of emotions. 
@@ -84,7 +84,7 @@ There are around 800 false job descriptions among the 18K job descriptions in th
 The Consumer Financial Protection Bureau publish thousands of consumers’ complaints about financial products and services to companies for response on weekly basis. The goal of this NLP project is to build a model that can accurately classify those consumer complaints into the product category they belong to using the content of the complaint. The data is sourced from kaggle.
 
 [code](https://github.com/Ashleshk/Mini-Projects/tree/main/US%20Consumer%20Finance%20Complaints%20Classification%20using%20NLP)
-![result]()
+![result](https://github.com/Ashleshk/Mini-Projects/blob/main/US%20Consumer%20Finance%20Complaints%20Classification%20using%20NLP/Finance%20result.png)
 
 # Other Project 
 * **Machine Learning Project:** - [Link](https://github.com/Ashleshk/Mini-Projects/tree/main/Machine%20Learning%20Projects)
