@@ -9,15 +9,36 @@ In summary, the following six machine learning models were developed to classify
 
 
 # 2. Fake Job Detection
-    There are around 800 false job descriptions among the 18K job descriptions in the dataset. The information includes both textual and meta-information about the jobs. The dataset has been used to train classification models that can detect spurious job descriptions.
+There are around 800 false job descriptions among the 18K job descriptions in the dataset. The information includes both textual and meta-information about the jobs. The dataset has been used to train classification models that can detect spurious job descriptions.
+
+**Problem Statement/Background:**
+- Detecting fake job postings and combating fraudulent activities in the job market.
+
+**Work:**
+- Developed a machine learning model utilizing natural language processing techniques to analyze job postings.
+- Trained the model on a labeled dataset to identify characteristics associated with fake job postings.
+
+**Result:**
+- Successfully detected and classified fake job postings with a high degree of accuracy.
+- Contributed to creating a safer and more trustworthy job market for job seekers.
 
 ![Fake job Matrix](https://github.com/Ashleshk/Mini-Projects/blob/main/Fake%20Job%20Detection/Confusion-Matrix.PNG)
 
 
 # 3. Donald Trump Trumping
-* With the latest developments and improvements in the field of deep learning and artificial intelligence, many exacting tasks of Natural Language Processing are becoming facile to implement and execute.  
-* hence to Implement and understand NLP concept of **Language Modelling and Text Generation using LSTMs**
+**Project Title: Donald Trump Tweet Generator using LSTM**
+**Problem Statement/Background:**
+- Replicating the unique tweeting style of former President Donald J. Trump using artificial intelligence.
 
+**Work:**
+- Utilized a Long Short-Term Memory (LSTM) neural network to analyze a dataset of Donald Trump's previous tweets.
+- Trained the LSTM model to generate new tweets that closely resemble Trump's distinctive writing style.
+
+**Result:**
+- Developed a tweet generator that produces highly realistic tweets emulating Trump's writing patterns, vocabulary, and tone.
+- Showcased the potential of deep learning algorithms in capturing and replicating the writing styles of influential individuals.
+
+![Donald trump result]()
 
 # 4. Semantic Segmentation of lungs from X-ray images 
 * A model of the segmentation of the lung region from the x-ray images, the model relies on forming a mask through which that region can be cut.
