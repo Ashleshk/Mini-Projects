@@ -63,17 +63,28 @@ There are around 800 false job descriptions among the 18K job descriptions in th
 
 
 # 5. Multi-Class Sentiment Analysis from Tweets 
+
+
 * **Background:** In this project I learnt the mechanism by which we can aggregate Tweets based on sentiment. The aggregation process is based on the association of tweets with the same feelings, as well as the degree and proportion of the feeling.
+
+[Project Folder](https://github.com/Ashleshk/Mini-Projects/tree/main/Multi-Class%20Sentiment%20Analysis%20from%20Tweets)
+
 * **My methodology**
-    *  By building a recurrent neural network capable of analyzing sentiment, using a data set that includes a number of emotions. 
+    * By building a recurrent neural network capable of analyzing sentiment, using a data set that includes a number of emotions. 
     * The next stage involves using the trained model to sort tweets based on sentiment with a rating ratio. 
     * The final hierarchical schemas (for each one of the feelings in dataset) will show the correlation of the tweeters in terms of the degree of affiliation with that feeling. The Euclidean distance was used to calculate the degree of convergence for a single feeling (depending on the percentage of tweeting classification and belonging to a specific feeling).
+
+![Accuracy](https://github.com/Ashleshk/Mini-Projects/blob/main/Multi-Class%20Sentiment%20Analysis%20from%20Tweets/Test%20Accuracy.png)
+
+![confusion matrix](https://github.com/Ashleshk/Mini-Projects/blob/main/Multi-Class%20Sentiment%20Analysis%20from%20Tweets/Confusion%20matrix.png)
 
 
 # 6. US Consumer Finance Complaints Classification- NLP
 
 The Consumer Financial Protection Bureau publish thousands of consumers’ complaints about financial products and services to companies for response on weekly basis. The goal of this NLP project is to build a model that can accurately classify those consumer complaints into the product category they belong to using the content of the complaint. The data is sourced from kaggle.
 
+[code](https://github.com/Ashleshk/Mini-Projects/tree/main/US%20Consumer%20Finance%20Complaints%20Classification%20using%20NLP)
+![result]()
 
 # Other Project 
 * **Machine Learning Project:** - [Link](https://github.com/Ashleshk/Mini-Projects/tree/main/Machine%20Learning%20Projects)
