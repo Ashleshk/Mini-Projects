@@ -26,7 +26,9 @@ There are around 800 false job descriptions among the 18K job descriptions in th
 
 
 # 3. Donald Trump Trumping
-**Project Title: Donald Trump Tweet Generator using LSTM**
+
+[**Project Title: Donald Trump Tweet Generator using LSTM**](https://github.com/Ashleshk/Mini-Projects/tree/main/Donald%20Trump%20Trumping)
+
 **Problem Statement/Background:**
 - Replicating the unique tweeting style of former President Donald J. Trump using artificial intelligence.
 
@@ -38,12 +40,23 @@ There are around 800 false job descriptions among the 18K job descriptions in th
 - Developed a tweet generator that produces highly realistic tweets emulating Trump's writing patterns, vocabulary, and tone.
 - Showcased the potential of deep learning algorithms in capturing and replicating the writing styles of influential individuals.
 
-![Donald trump result]()
+![Donald trump result](https://github.com/Ashleshk/Mini-Projects/blob/main/Donald%20Trump%20Trumping/Donald%20Trump%20result.png)
 
 # 4. Semantic Segmentation of lungs from X-ray images 
-* A model of the segmentation of the lung region from the x-ray images, the model relies on forming a mask through which that region can be cut.
-* **My methodology**
-    * Using a pre-trained Model, to extract the characteristics and use it to train to X-ray images dataset to find a mathematical formula that links these characteristics to each other and thus the ability to build the mask as required.
+
+[link](https://github.com/Ashleshk/Mini-Projects/tree/main/Covid-19%20Recognition%20in%20CT%20Scans%20using%20Artificial%20Intelligence%20(AI)%20guided%20tools)
+
+**Problem Statement/Background:**
+- Accurately identifying and segmenting lung regions in X-ray images for medical analysis and diagnosis.
+- The model relies on forming a mask through which that region can be cut.
+
+**Work:**
+- Using a pre-trained Model, to extract the characteristics and use it to train to X-ray images dataset to find a mathematical formula that links these characteristics to each other and thus the ability to build the mask as required.
+
+**Result:**
+- Achieved precise and accurate segmentation of lung regions in X-ray images, overcoming challenges such as image quality variations and anatomical differences.
+- Enhanced the efficiency and accuracy of lung diagnosis, aiding radiologists in interpreting X-ray images and detecting pulmonary diseases.
+
 
 # 5. Multi-Class Sentiment Analysis from Tweets 
 * **Background:** In this project I learnt the mechanism by which we can aggregate Tweets based on sentiment. The aggregation process is based on the association of tweets with the same feelings, as well as the degree and proportion of the feeling.
