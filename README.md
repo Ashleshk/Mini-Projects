@@ -5,11 +5,15 @@ Small Projects to revise ML, DL Algorithms
 - **Random Forest, KNN, Log-Regression, ANN**
 In summary, the following six machine learning models were developed to classify Autism using 13 selected features from the ABIDE dataset and reducing the subjects to 785. Highest accuracy (84.71 %) and ROC_AUC score (0.74) was achieved by XGBoost algorithm, followed by Random Forest which too was pretty close. The classification report and confusion matrix of the best model is given above.
 
+[Project folder](https://github.com/Ashleshk/Mini-Projects/tree/main/Random%20Forest%2C%20KNN%2C%20Log-Regression%2C%20ANN)
+
 ![Classification Algo result](https://github.com/Ashleshk/Mini-Projects/blob/main/Random%20Forest%2C%20KNN%2C%20Log-Regression%2C%20ANN/Result.PNG)
 
 
 # 2. Fake Job Detection
 There are around 800 false job descriptions among the 18K job descriptions in the dataset. The information includes both textual and meta-information about the jobs. The dataset has been used to train classification models that can detect spurious job descriptions.
+
+[Project Folder](https://github.com/Ashleshk/Mini-Projects/tree/main/Fake%20Job%20Detection)
 
 **Problem Statement/Background:**
 - Detecting fake job postings and combating fraudulent activities in the job market.
@@ -44,7 +48,7 @@ There are around 800 false job descriptions among the 18K job descriptions in th
 
 # 4. Semantic Segmentation of lungs from X-ray images 
 
-[link](https://github.com/Ashleshk/Mini-Projects/tree/main/Covid-19%20Recognition%20in%20CT%20Scans%20using%20Artificial%20Intelligence%20(AI)%20guided%20tools)
+[Project Folder](https://github.com/Ashleshk/Mini-Projects/tree/main/Semantic-Segmentation-of-lungs-using-Xray-Image)
 
 **Problem Statement/Background:**
 - Accurately identifying and segmenting lung regions in X-ray images for medical analysis and diagnosis.
@@ -69,3 +73,18 @@ There are around 800 false job descriptions among the 18K job descriptions in th
 # 6. US Consumer Finance Complaints Classification- NLP
 
 The Consumer Financial Protection Bureau publish thousands of consumers’ complaints about financial products and services to companies for response on weekly basis. The goal of this NLP project is to build a model that can accurately classify those consumer complaints into the product category they belong to using the content of the complaint. The data is sourced from kaggle.
+
+
+# Other Project 
+* **Machine Learning Project:** - [Link](https://github.com/Ashleshk/Mini-Projects/tree/main/Machine%20Learning%20Projects)
+    * Gaussian Classification
+    * Logistic Regression
+    * Logistic Regression with k-Fold Cross Validation
+    * k-Means Clustering
+    * Support Vector Machine
+    * Neural Network
+
+* **Kaggle** - [Link](https://github.com/Ashleshk/Mini-Projects/tree/main/Kaggle%20Projects)
+   * Credit-Card Fraud Detection
+   * House Prices Prediction
+   * Titanic - Fun Project
