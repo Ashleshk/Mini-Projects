@@ -18,7 +18,6 @@ In summary, the following six machine learning models were developed to classify
 * With the latest developments and improvements in the field of deep learning and artificial intelligence, many exacting tasks of Natural Language Processing are becoming facile to implement and execute.  
 * hence to Implement and understand NLP concept of **Language Modelling and Text Generation using LSTMs**
 
-- Well i m working on this, will update Soon....
 
 # 4. Semantic Segmentation of lungs from X-ray images 
 * A model of the segmentation of the lung region from the x-ray images, the model relies on forming a mask through which that region can be cut.
@@ -26,8 +25,13 @@ In summary, the following six machine learning models were developed to classify
     * Using a pre-trained Model, to extract the characteristics and use it to train to X-ray images dataset to find a mathematical formula that links these characteristics to each other and thus the ability to build the mask as required.
 
 # 5. Multi-Class Sentiment Analysis from Tweets 
-* here in this project I learnt the mechanism by which we can aggregate Tweets based on sentiment. The aggregation process is based on the association of tweets with the same feelings, as well as the degree and proportion of the feeling.
+* **Background:** In this project I learnt the mechanism by which we can aggregate Tweets based on sentiment. The aggregation process is based on the association of tweets with the same feelings, as well as the degree and proportion of the feeling.
 * **My methodology**
     *  By building a recurrent neural network capable of analyzing sentiment, using a data set that includes a number of emotions. 
     * The next stage involves using the trained model to sort tweets based on sentiment with a rating ratio. 
     * The final hierarchical schemas (for each one of the feelings in dataset) will show the correlation of the tweeters in terms of the degree of affiliation with that feeling. The Euclidean distance was used to calculate the degree of convergence for a single feeling (depending on the percentage of tweeting classification and belonging to a specific feeling).
+
+
+# 6. US Consumer Finance Complaints Classification- NLP
+
+The Consumer Financial Protection Bureau publish thousands of consumers’ complaints about financial products and services to companies for response on weekly basis. The goal of this NLP project is to build a model that can accurately classify those consumer complaints into the product category they belong to using the content of the complaint. The data is sourced from kaggle.
